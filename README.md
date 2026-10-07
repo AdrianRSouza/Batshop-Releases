@@ -8,7 +8,8 @@ Downloads do **Batshop**, editor de imagens no estilo do Photoshop feito para ty
 2. Abra, escolha a pasta (padrão: `Documentos\Batshop`) e clique em **Instalar**.
    O instalador baixa o programa, cria o atalho na Área de Trabalho e no Menu Iniciar.
 
-Para desinstalar: Configurações do Windows → Aplicativos → Batshop. Ou use o desinstalado: `Documentos\Batshiop\Desinstalar.exe`
+Para desinstalar: Configurações do Windows → Aplicativos → Batshop. 
+Ou use o desinstalador: `Documentos\Batshop\Desinstalar.exe`
 
 Sem instalador: baixe o `Batshop-X.Y.Z-win64.zip`, extraia onde quiser e abra o `Batshop.exe`.
 
